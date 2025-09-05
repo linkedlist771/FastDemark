@@ -6,4 +6,4 @@
 # 你需要把原来 start_server.sh 的内容复制到这里，
 # 但在 Python 命令前加上我们的补丁
 
-iopaint start --model=lama --device=cuda --port=8080
+iopaint start --model=lama --device=cuda --port=5001
